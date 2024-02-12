@@ -1,0 +1,23 @@
+{
+  "name": "bluesky_profile_cleaner",
+  "version": "1.0.0",
+  "description": "delete all of the posts on your profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssltny/bluesky_profile_cleaner.git"
+  },
+  "author": "ssltny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssltny/bluesky_profile_cleaner/issues"
+  },
+  "homepage": "https://github.com/ssltny/bluesky_profile_cleaner#readme",
+  "dependencies": {
+    "@atproto/api": "^0.9.6",
+    "dotenv": "^16.4.2"
+  }
+}
